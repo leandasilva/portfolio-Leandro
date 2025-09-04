@@ -8,7 +8,7 @@ export default function FrasesCardsLanding() {
         Contaduría General de la Provincia de Corrientes
         </h1>
         <p className="text-lg text-gray-300 max-w-2xl">
-        Participé en el desarrollo fullstack del sitio utilizando React.js, Redux, Node.js, Express y PL/SQL.
+        Participé en el desarrollo fullstack del sitio utilizando Angular, Angular Material, Angular CLI, Node.js, Express y PL/SQL.
         Implementé diseño responsivo con TailwindCSS, autenticación segura y gestión de sesiones.
         </p>
 
