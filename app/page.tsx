@@ -6,17 +6,17 @@ export default function Home() {
     {
       titulo: "Tu Negocio Digital",
       descripcion: "Proyecto personal con React, Node.js y MongoDB",
-      href: "/landing2-tiendadigital",
+      href: "/landing1-tiendadigital",
     },
     {
       titulo: "Frases Cards",
       descripcion: "App con React + Redux + Node.js + PostgreSQL",
-      href: "/landing1-frases",
+      href: "/landing2-frases",
     },
     {
       titulo: "Contaduría general de Corrientes",
-      descripcion: "App con React + Redux + Node.js + Pl/SQl + Oracle + Java + Spring Boot",
-      href: "/landing3-contaduria-react",
+      descripcion: "App con Agular + Material + Angular NgRx + Node.js + Pl/SQl + Oracle + Java + Spring Boot",
+      href: "/landing3-contaduria",
     },
     {
       titulo: "Datup (En desarrollo)",
