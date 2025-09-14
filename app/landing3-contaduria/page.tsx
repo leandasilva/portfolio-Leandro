@@ -19,7 +19,7 @@ export default function CgpCorrientesLanding() {
             rel="noopener noreferrer"
             className="px-6 py-3 bg-blue-600 rounded-lg shadow-lg hover:bg-blue-700 transition"
           >
-            Ver Demo
+            Ver Proyecto
           </a>
         </div>
       </section>
@@ -116,7 +116,7 @@ export default function CgpCorrientesLanding() {
             rel="noopener noreferrer"
             className="px-8 py-4 bg-white text-blue-600 rounded-lg shadow hover:bg-gray-100 transition"
           >
-            🚀 Ver Demo
+            🚀 Ver Proyecto
           </a>
         </div>
       </section>
