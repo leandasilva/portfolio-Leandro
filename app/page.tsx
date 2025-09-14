@@ -20,16 +20,14 @@ export default function Home() {
     },
     {
       titulo: "Datup (En desarrollo)",
-      descripcion: "Proyecto en el que trabajo en remoto actualmente",
+      descripcion: "Proyecto en el que trabaje en remoto como fullstack developer",
       href: "/landing4-datup",
     },
-    /*
     {
       titulo: "React Native - Proyecto en desarrollo",
       descripcion: "Portfolio personal con React Native + Tailwind",
       href: "/landing5-reactnative",
     },
-    */
   ];
 
   return (
